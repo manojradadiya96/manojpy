@@ -1,0 +1,4 @@
+'a' is placed at : 1
+'a' is placed at : 7
+'a' is placed at : 9
+'a' is placed at : 13
